@@ -1,2 +1,3 @@
 # subendudemo
-this is firs  git repository
+this is first  git repository
+author name subendu ranjan
